@@ -1,0 +1,178 @@
+
+/*le style du body*/
+
+body{
+    margin: 50px;
+   
+}
+/*fin du style de body*/
+
+
+
+.bleu{
+    border: 2px solid black;
+    width: 300px;
+    height: 800px;
+    background-color:#2286c3;
+
+}
+
+.info{
+    border: black solid 2px;
+    width: 600px;
+    height: 800px;
+    position: relative;
+    left: 305px;
+    bottom: 804px;
+    
+}
+
+#conteneur{
+    text-align: center;
+     
+}
+
+img{
+    border-radius: 25%;
+    position: relative;
+    top: 20px;
+}
+
+hr{
+    position: relative;
+    top: 20px;
+    border: whitey solid 10px;
+}
+
+.p{
+    padding: 1px;
+    border: #027 solid 2px;
+    width: 290px;
+    background-color:#027;
+    color: white;
+    text-align: justify;
+    
+}
+
+/*
+#informations{
+   
+}*/
+
+
+/*style des icones */
+.icone{
+    float: right;
+    position: relative;
+    bottom: 148px;
+    right: 350px;
+}
+
+
+#mes_loisirs{
+    text-decoration: underline white;
+    background-color: #027;
+    color: white;
+}
+
+#exp_pro{
+    text-decoration: underline white;
+    background-color: #027;
+    color: white;
+}
+
+#fma{
+    text-decoration: underline white;
+    background-color: #027;
+    color: white;
+}
+
+
+.flou{
+	position: relative;
+    bottom: 20px;
+    top: 20px;
+    left: 20px;
+    contain: content;
+}
+
+/*style du de la langues */
+#h1_langues{
+    text-decoration: white underline;
+    color: white;
+}
+
+
+.li_langues{
+    color: white;
+}
+
+/*le style des icones de la langues */
+
+.icone_langues{
+    position: relative;
+    left: 70px;
+    bottom: 87px;
+}
+
+#etoile3{
+    position: relative;
+    left: 120px;
+    bottom: 122px;
+}
+
+
+#etoile4{
+    position: relative;
+    left: 60px;
+    bottom: 194px;
+}
+
+
+#etoile5{
+    position: relative;
+    left: 89px;
+    bottom: 228px;
+}
+
+
+
+#etoile6{
+    position: relative;
+    left: 119px;
+    bottom: 263px;
+}
+
+#etoile7{
+    position: relative;
+    left: 150px;
+    bottom: 299px;
+}
+
+#etoile2{
+    position: relative;
+    left: 90px;
+    bottom: 87px;
+}
+
+#etoile1{
+    position: relative;
+    left: 60px;
+    bottom: 52px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+h2{
+    text-decoration: underline;
+    color: white;
+}
+
+
+#ul2{
+    color: white;
+}
+

@@ -1,0 +1,122 @@
+/* le style du body*/
+
+body{
+    margin: auto;
+    padding: 10px;
+    width: 1120px;
+    height: 750px;
+    border: 2px solid #000000;
+    background-color: #ffffff;
+}
+
+/*fin du style body*/
+
+/*le style de la photo*/
+
+#photo{
+    float: right;
+    margin-top: -250px;
+    border: black 2px solid;
+}
+
+/*le style section info & photo*/
+
+.info_photo{
+    border:#000000 2px solid;
+    background-color: cyan;
+    padding: 5px;
+}
+
+/*style de la div compétences*/
+
+#competences{
+    float: right;
+    margin-top: -270px;
+}
+
+
+#competences{
+    border: 2px solid #000000;
+    width: 550px;
+    background-color: cyan;
+}
+
+/*style de loisirs*/
+
+#loisirs{
+    float: right;
+    margin-top: -120px;
+
+}
+
+/*style du titre 1*/
+
+#titre1{
+    border: 2px solid #000000;
+    width: 300px;
+    text-align: center;
+    text-decoration: underline ;
+}
+
+
+/*style du titre 2*/
+
+#titre2{
+    border: 2px solid #000000;
+    width: 300px;
+    text-align: center;
+    text-decoration: underline #000000;
+
+}
+
+/*style div formation*/
+#formation{
+    border: 2px solid #000000;
+    background-color: cyan;
+    width: 550px;
+}
+
+/*le style de strong*/
+
+.str{
+    text-decoration: underline #000000;
+}
+
+
+/*le style de h1*/
+h1{
+    text-decoration:#000000 underline;
+}
+   
+
+/*style de l'icone 
+
+.etoile{
+    width: 2px;
+    height: 2%;
+
+}
+*/
+
+
+/*style de loisirs et langues*/
+
+
+#langues{
+    border: 2px solid #000000;
+    background-color: cyan;
+    width: 550px;
+}
+
+#loisirs{
+    border: 2px solid #000000;
+    background-color: cyan;
+    width: 400px;
+    height: 150px;
+    
+}
+
+
+#exp_pro{
+    text-decoration: underline;
+}
